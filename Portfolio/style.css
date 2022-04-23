@@ -1,0 +1,122 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.box1 {
+  height: 8vh;
+  width: 100%;
+  color: aliceblue;
+}
+
+#right-box1 {
+  margin-top: 2em;
+  margin-left: 5em;
+  font-size: 1.5em;
+  opacity: 0;
+}
+.image {
+  opacity: 0;
+}
+.circle {
+  height: 0em;
+  margin-right: 90px;
+  border-radius: 50em;
+  background-color: rgb(147, 147, 148);
+}
+.box2 {
+  height: 31vh;
+  background-color: #2b2b2b;
+}
+.box2 h1 {
+  color: whitesmoke;
+  text-align: center;
+}
+.line1 {
+  text-align: center;
+  height: 5px;
+  width: 15em;
+  background-color: aliceblue;
+}
+.aboutme {
+  opacity: 0;
+}
+.box3 {
+  color: aliceblue;
+  height: 50vh;
+  background-color: #2b2b2b;
+}
+.box3 p {
+  font-size: 1.5em;
+  opacity: 0;
+}
+.box3 label {
+  font-size: 1.2em;
+}
+.label {
+  opacity: 0;
+}
+.box4 {
+  color: aliceblue;
+  height: 23vh;
+  background-color: #2b2b2b;
+}
+.bpx4 h2 {
+  opacity: 0;
+}
+.box5 {
+  height: 50vh;
+}
+.box5 .card {
+  background-color: #2b2b2b;
+  color: aliceblue;
+}
+
+.box6 {
+  color: aliceblue;
+  height: 50vh;
+  background-color: #2b2b2b;
+}
+.line3 {
+  text-align: center;
+  height: 2px;
+  width: 5em;
+  background-color: aliceblue;
+}
+.line4 {
+  text-align: center;
+  height: 2px;
+  width: 15em;
+  background-color: aliceblue;
+}
+.box6 i {
+  font-size: 1.5em;
+}
+.box6 input {
+  background-color: #2b2b2b;
+  border: #2b2b2b;
+}
+.box6 textarea {
+  background-color: #2b2b2b;
+}
+.box6 a {
+  color: whitesmoke;
+}
+.box7 {
+  height: 3vh;
+}
+.box7 p {
+  color: whitesmoke;
+  text-align: center;
+}
+.cv {
+  opacity: 0;
+}
+a {
+  opacity: 0;
+}
+a:hover {
+  margin-top: 1em;
+}
+.box8 {
+  color: aliceblue;
+}
